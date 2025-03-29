@@ -4,6 +4,7 @@
   "description": "Personal Portfolio Website",
   "main": "index.html",
   "scripts": {
+    "dev": "serve .",
     "start": "serve .",
     "build": "echo 'No build step needed'"
   },
